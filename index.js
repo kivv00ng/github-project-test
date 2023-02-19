@@ -1,4 +1,3 @@
-<div>hello feature#6</div>;
-<div>칸반에서 움직일까?V2</div>;
-<div>git-slack연동</div>;
-<div>어쩌지11</div>;
+<div>hello feature#5</div>;
+<div>commit 확인하기</div>;
+<div>pr Test</div>
