@@ -7,8 +7,5 @@
 <div>모르겠다..</div>;
 <div>commit으로 지정해야겠따.</div>;
 <div>본문에만 이슈넘버 넣어보기#22</div>;
-<div>커밋에만 넣어보기</div>;
-<div>커밋+본문에 넣어보기</div>;
-<div>dev로 default 바꿔보았따.</div>;
-<div>default dev로 변경후 제목에만 넣어보기(work flow) </div>;
-<div>=>안된다.. 본문에만 넣어보자</div>;
+<div>칸반 움직이는지 확인하기</div>;
+<div>=>안움직임.. 키워드가 필요한듯한데.. </div>;
