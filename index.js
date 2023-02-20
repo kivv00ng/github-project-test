@@ -11,3 +11,4 @@
 <div>=>안움직임.. 키워드가 필요한듯한데.. </div>;
 <div>approved 키워드 넣어보기</div>;
 <div>resolve를 넣어보자.. 이건 뭘까?</div>;
+<div>close 안되는 문제 수정</div>;
