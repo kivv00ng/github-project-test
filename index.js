@@ -1,6 +1,14 @@
 <div>hello feature#6</div>;
 <div>칸반에서 움직일까?V2</div>;
 <div>git-slack연동</div>;
-<div>어쩌지11</div>;
-<div>알았따!키워드를 붙이면된다! closes #11</div>;
-<div>안되네.. 다시 붙여보자</div>;
+<div>
+  아하 제목에 넣는방법이 있고, 커밋이랑 메시지 내부에 넣는 방법이있구나.
+</div>;
+<div>모르겠다..</div>;
+<div>commit으로 지정해야겠따.</div>;
+<div>본문에만 이슈넘버 넣어보기#22</div>;
+<div>칸반 움직이는지 확인하기</div>;
+<div>=>안움직임.. 키워드가 필요한듯한데.. </div>;
+<div>approved 키워드 넣어보기</div>;
+<div>resolve를 넣어보자.. 이건 뭘까?</div>;
+<div>close 안되는 문제 수정</div>;
